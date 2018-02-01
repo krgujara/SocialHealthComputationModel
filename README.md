@@ -4,8 +4,9 @@ Simulation of different Communities in the Society in Java, to find out the fate
 
 
 ### Author: 
-Komal Gujarathi	(Pursuing Masters in Computer Engineering, Syracuse University) email: komalgujarathi@outlook.com
-
+Komal Gujarathi	(Pursuing Masters in Computer Engineering, Syracuse University) 
+Email: komalgujarathi@outlook.com
+Contact: 315-744-6116.
 
 ![screen shot 2018-02-01 at 7 21 36 am](https://user-images.githubusercontent.com/24962915/35678931-3aa6b88e-0723-11e8-9b8c-d7496ad0fa6f.png)
 
